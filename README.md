@@ -72,6 +72,4 @@ Los resultados proporcionan información sobre cómo los indicadores del transpo
 1. Clona este repositorio:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-
 git clone https://github.com/loperasergio94-collab/mobility-economy-analysis.git
