@@ -1,5 +1,7 @@
 # Análisis de la Movilidad y la Economía
 
+![Mobility & Economy Analysis](Portada%20del%20proyecto%201200%C3%97627%402x.png)
+
 ## Descripción del proyecto
 
 Este proyecto analiza la posible relación entre la movilidad urbana, la congestión del tráfico y la productividad económica en diferentes ciudades.
